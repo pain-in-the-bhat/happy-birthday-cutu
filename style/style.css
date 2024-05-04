@@ -119,7 +119,7 @@ body {
 .six img {
   display: inline-block;
   max-width: 50%;
-  height: auto;
+  height: 500px;
 }
 
 .six .hat {
@@ -212,7 +212,7 @@ body {
 
 .wish-hbd {
   font-size: 3em;
-  margin: 0;
+  margin: 5;
   text-transform: uppercase;
 }
 
